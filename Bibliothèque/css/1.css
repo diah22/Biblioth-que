@@ -1,0 +1,131 @@
+.b
+{
+  background-color: rgb(219,219,219);
+}
+
+/*.container
+{
+  border-color: rgb(255,255,255);
+  border-right-width: 20px;
+}*/
+
+.zonetext textarea
+{
+  width: 600px;
+  height: 150px;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.ajj
+{
+  margin-top: 50px;
+  margin-left: 270px;
+}
+
+#ajouter
+{
+  margin-top: 10px;
+  margin-left: 280px;
+  width: 200px;
+  color: white;
+}
+
+#formulaire
+{
+  width: 800px;
+  height:650px;
+}
+
+#uploadfile
+{
+  margin-top: 20px;
+  margin-left: 10px;
+  width: 600px;
+}
+
+#categorielivre
+{
+  width: 600px;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+#titredulivre
+{
+  margin-top: 20px;
+}
+
+#cat20
+{
+  margin-left: 10px;
+}
+
+#modifier
+{
+  width: 140px;
+  margin-left: 290px;
+
+}
+
+#supprimer
+{
+  margin-left: 250px;
+}
+#retour
+{
+  margin-left: 10px;
+  width: 80px;
+  color: rgb(255,255,255);
+  background-color: rgb(39,39,39);
+}
+.row{
+  border: 1px solid teal;
+  padding: 30px;
+  background-color: lightgray;
+  opacity: 0.8;
+}
+.row:hover{
+  opacity: 1;
+}
+.col-sm{
+  padding: 20px;
+}
+.container{
+  padding-top: 30px;
+}
+#thead{
+  background-color: gray;
+  color: black;
+  font-weight: bold;
+  font-size: 15px;
+  border: 1px solid black;
+}
+/*Pour l'interface ajout*/
+#select{
+  margin-left: 20px;
+}
+.groupebtn{
+  margin-top: 15px;
+}
+
+/*For detail's page*/
+.ttl{
+  padding: 30px;
+  font-weight: bold;
+  color: teal;
+  text-align: center;
+}
+.aandc{
+
+  display: inline-block;
+  font-weight: bold;
+  padding-right:50px;
+  padding-left: 100px;
+}
+#details_cat{
+  margin-left: 125px;
+}
+.text{
+  padding: 100px;
+}
